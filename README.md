@@ -1,8 +1,8 @@
 # Table of Content
   1. [Introduction](#introduction)
-  2. [Links](www.google.com)
-  3. [Help & Feedback](www.google.com)
-  4. [Task List](www.google.com)
+  2. [Links](#Links)
+  3. [Help & Feedback](#Help_&_Feedback)
+  4. [Task List](#Task_List)
 
 # Introduction
 This is a Google Colab Script to render .blend file using Cycles Render Engine.
