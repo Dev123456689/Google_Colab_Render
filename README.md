@@ -20,6 +20,7 @@ For any help, feedback, bug report or request open a a GitHub issue with the cor
 > * **question**: Use question label when asking a question or needing help in a problem.
 > * **enhancement**: Use enhancement label when requesting a new feature.
 > * **bug**: Use bug lable when reporting a bug in the script.
+> [!NOTE]
 > **All the other labels are intended for developers and contributors and not for a normal user.**
 
 # Task List
