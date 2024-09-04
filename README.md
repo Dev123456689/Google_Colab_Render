@@ -1,7 +1,7 @@
 # Table of Content
   1. [Introduction](#introduction)
   2. [Links](#Links)
-  3. [Help & Feedback](#Help & Feedback)
+  3. [Help & Feedback](#Help&Feedback)
   4. [Task List](#Task_List)
 
 # Introduction
