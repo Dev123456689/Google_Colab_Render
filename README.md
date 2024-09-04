@@ -1,5 +1,5 @@
 # Table of Content
-  1. [Introduction](www.google.com)
+  1. [Introduction](#introduction)
   2. [Links](www.google.com)
   3. [Help & Feedback](www.google.com)
   4. [Task List](www.google.com)
