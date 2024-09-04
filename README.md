@@ -1,6 +1,6 @@
 # Table of Content
 > 1. [Introduction](#introduction)
-> 2. [Links](#Links)
+> 2. [Links](#links)
 > 3. [Help & Feedback](#help--feedback)
 > 4. [Task List](#task-list)
 
@@ -21,7 +21,7 @@ For any help, feedback, bug report or request open a a GitHub issue with the cor
 > * **enhancement**: Use enhancement label when requesting a new feature.
 > * **bug**: Use bug lable when reporting a bug in the script.
 
-> [NOTE]
+> [!NOTE]
 > **All the other labels are intended for developers and contributors and not for a normal user.**
 
 # Task List
